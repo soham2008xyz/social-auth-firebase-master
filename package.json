@@ -38,7 +38,7 @@
         "firebase": "^9.22.0",
         "ionic-angular": "3.9.10",
         "ionic-plugin-keyboard": "^2.2.1",
-        "ionicons": "7.1.0",
+        "ionicons": "7.1.1",
         "promise-polyfill": "8.3.0",
         "rxjs": "5.5.12",
         "sw-toolbox": "3.6.0",
