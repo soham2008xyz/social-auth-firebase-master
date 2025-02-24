@@ -16,7 +16,7 @@
         "@angular/compiler": "4.1.2",
         "@angular/compiler-cli": "4.1.2",
         "@angular/core": "16.2.12",
-        "@angular/forms": "4.1.2",
+        "@angular/forms": "19.1.7",
         "@angular/http": "4.1.2",
         "@angular/platform-browser": "4.1.2",
         "@angular/platform-browser-dynamic": "4.1.2",
